@@ -1,5 +1,5 @@
 # vinyl_shop
-Проєкт бази даних: Магазин вінілових платівок та програвачів
 Лабораторна робота з проєктування реляційної БД за методологією "Схема як Код".
+Проєкт бази даних: Магазин вінілових платівок та програвачів
 
-* **Документація схеми:** [Переглянути на dbdocs.io](https://dbdocs.io/huzenko.milena/vinyl_shop?view=table_structure)
+* Документація схеми: [Переглянути на dbdocs.io](https://dbdocs.io/huzenko.milena/vinyl_shop?view=table_structure)
