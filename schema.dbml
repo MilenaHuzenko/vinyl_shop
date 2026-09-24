@@ -48,6 +48,7 @@ Table Order_Items {
   price_at_purchase decimal(10, 2) [not null] // Ціна на момент покупки
 }
 
+
 // Створюємо зв`язки, що ведуть до асоціативної таблиці
 Ref: Orders.id < Order_Items.order_id
 Ref: Products.id < Order_Items.product_id
