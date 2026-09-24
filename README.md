@@ -2,4 +2,4 @@
 Лабораторна робота №1 - проєктування реляційної бази даних за методологією "Схема як Код".
 Проєкт бази даних: Магазин вінілових платівок та програвачів
 
-* Веб-сайт документації: [Переглянути на dbdocs.io](https://dbdocs.io/huzenko.milena/vinyl_shop?view=table_structure)
+* Веб-сайт документації: [dbdocs.io](https://dbdocs.io/huzenko.milena/vinyl_shop?view=table_structure)
