@@ -3,3 +3,5 @@
 Проєкт бази даних: Магазин вінілових платівок та програвачів
 
 * Веб-сайт документації: [dbdocs.io](https://dbdocs.io/huzenko.milena/vinyl_shop?view=table_structure)
+
+Лабораторна робота №2
