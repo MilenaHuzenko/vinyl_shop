@@ -30,3 +30,9 @@
 * lab_5_complex_transaction.sql - скрипт реалізації комплексної багатокрокової бізнес-транзакції для оформлення замовлення
 * lab_5_index.sql - скрипт створення індексу для оптимізації та прискорення пошуку товарів
 * lab_5_rollback.sql - скрипт демонстрації відкату змін у транзакції за допомогою ROLLBACK
+
+# Лабораторна робота №6
+* lab_6_basic_dcl.sql - створення користувача (web_client) та видача базового права (GRANT SELECT ON Products TO …)
+* lab_6_basic_json.sql - простий запит з JSON_OBJECT() для одного рядка
+* lab_6_security.sql - DCL-скрипт створення app_backend та видачі гранульованих прав за принципом мінімальних привілеїв
+* lab_6_complex_json.sql - складний SQL/JSON запит із JSON_OBJECT() та JSON_ARRAYAGG()
